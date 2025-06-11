@@ -1,6 +1,6 @@
 # Clean Label Scanner
 
-This Android application helps users analyze clean labels. The app can scan labels using the device's camera and analyze ingredients for harmful substances.
+This Android application helps users analyze ingredient labels. The app can scan labels using the device's camera and analyze ingredients for harmful substances.
 
 ## Features
 - Scan clean labels using the device's camera
@@ -8,6 +8,7 @@ This Android application helps users analyze clean labels. The app can scan labe
 - Identify harmful substances
 - Display detailed analysis results
 - Share analysis findings
+- Allows users to set up health profile
 
 ## Project Structure
 - `app/src/main/java/com/example/cleanlabel/`: Contains the main application code
